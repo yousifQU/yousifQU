@@ -21,15 +21,18 @@ Currently developing my skills across different areas of cybersecurity, with a p
 | [Network SIEM Monitoring Lab](https://github.com/yousifQU/siem-ids-network-monitoring-lab) | Built a simulated network, deployed SIEM to detect and alert on attacks | Splunk, pfSense, Snort |
 | [IDS/Firewall Configuration Lab](https://github.com/yousifQU/firewall-network-segmentation-lab) | Configured layered firewall + IDS rules, tested against simulated intrusions | Suricata, pfSense |
 | [Digital Forensics Case Study](https://github.com/yousifQU/digital-forensics-disk-analysis) | Disk image analysis and evidence timeline reconstruction | Autopsy, FTK |
+| [Network Engineer Fundementals](https://github.com/yousifQU/network-engineer-fundementals) | Network Engineer Fundementals | Cisco Switches |
 
 ## 🎓 Education
 **Purdue University** — B.S. Cybersecurity, Minor in Digital Forensics
-[Graduation date] | Relevant coursework: [course, course, course, course]
+May, 2026
 
 ## 💼 Experience
-**[Job Title]** — [Company], [Dates]
-- [One-line impact statement]
-- [One-line impact statement]
+**Network Secuirty Field Officer** — Purdue IT, Jan, 2025 - May, 2026
+- Configured and deployed 300+ PoE phones, Cisco devices, and Dell networking equipment, maintaining reliable, secure
+communication services across departments with minimal downtime.
+-  Monitored and secured network infrastructure across 160 buildings, using Wireshark for traffic analysis and
+troubleshooting VLANs, DHCP/DNS, and switch configurations to identify and resolve connectivity and security issues.
 
 ---
 📄 [Resume](link-to-resume-pdf) &nbsp;|&nbsp; 🔗 [LinkedIn](link) &nbsp;|&nbsp; ✉️ [Email](mailto:your-email@example.com)
