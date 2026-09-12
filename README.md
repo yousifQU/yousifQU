@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Yousif 👋
 
-<!--
-**yousifQU/yousifQU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity graduate From Purdue University with a minor in Digital Forensics.
+Currently developing my skills across different areas of cybersecurity, with a particular interest in Digital Forensics and Cybersecurity GRC.
 
-Here are some ideas to get you started:
+🔎 Currently looking for: SOC Analyst / Security Analyst / Network Security roles
+📍 Based in: Jeddah, Saudi Arabia
+📫 Reach me: yousifalqunfuzi@gmail.com | https://www.linkedin.com/in/yousif-alqunfuzi/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+**Security Tools:** Wazuh, Suricata, Velociraptor, pfSense, VyOS Firewall, Security Onion, , Wireshark, pfSense , Nmap, Metasploit
+**Forensics:** Axiok, Autopsy, FTK Imager
+**Networking:** Networking equipment Maintainance/troubleshooting, firewall rules, IDS/IPS configuration, Network Segmentation, VLANs
+**GRC:** Risk Management, ISO 27001
+**Systems:**  Linux administration, Windows Server, Active Directory
+
+
+## 📌 Featured Projects
+| Project | Description | Tools |
+|---|---|---|
+| [Network SIEM Monitoring Lab](https://github.com/yousifQU/siem-ids-network-monitoring-lab) | Built a simulated network, deployed SIEM to detect and alert on attacks | Splunk, pfSense, Snort |
+| [IDS/Firewall Configuration Lab](https://github.com/yousifQU/firewall-network-segmentation-lab) | Configured layered firewall + IDS rules, tested against simulated intrusions | Suricata, pfSense |
+| [Digital Forensics Case Study](https://github.com/yousifQU/digital-forensics-disk-analysis) | Disk image analysis and evidence timeline reconstruction | Autopsy, FTK |
+
+## 🎓 Education
+**Purdue University** — B.S. Cybersecurity, Minor in Digital Forensics
+[Graduation date] | Relevant coursework: [course, course, course, course]
+
+## 💼 Experience
+**[Job Title]** — [Company], [Dates]
+- [One-line impact statement]
+- [One-line impact statement]
+
+---
+📄 [Resume](link-to-resume-pdf) &nbsp;|&nbsp; 🔗 [LinkedIn](link) &nbsp;|&nbsp; ✉️ [Email](mailto:your-email@example.com)
