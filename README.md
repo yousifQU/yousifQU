@@ -35,4 +35,4 @@ communication services across departments with minimal downtime.
 troubleshooting VLANs, DHCP/DNS, and switch configurations to identify and resolve connectivity and security issues.
 
 ---
-📄 [Resume](link-to-resume-pdf) &nbsp;|&nbsp; 🔗 [LinkedIn](link) &nbsp;|&nbsp; ✉️ [Email](mailto:your-email@example.com)
+📄 [Resume](https://github.com/yousifQU/Yousif-Alqunfuzi-Resume/blob/main/Yousif%20M%20ALqunfuzi%20Resume.pdf) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/yousif-alqunfuzi) &nbsp;|&nbsp; ✉️ [Email](mailto:yousifalqunfuzi@gmail.com)
