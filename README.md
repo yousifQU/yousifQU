@@ -22,11 +22,11 @@ Currently developing my skills across different areas of cybersecurity, with a p
 | [Network Engineer Fundementals](https://github.com/yousifQU/network-engineer-fundementals) | Network Engineer Fundementals | Cisco Switches |
 
 ## 🛠️ Technical Skills
-**Security Tools:** Wazuh, Suricata, Velociraptor, pfSense, VyOS Firewall, Security Onion, , Wireshark, pfSense , Nmap, Metasploit \
-**Forensics:** Axiok, Autopsy, FTK Imager \
-**Networking:** Networking equipment Maintainance/troubleshooting, firewall rules, IDS/IPS configuration, Network Segmentation, VLANs \
-**GRC:** Risk Management, ISO 27001 \
-**Systems:**  Linux administration, Windows Server, Active Directory
+**Security Operations:** SIEM & Log Analysis, Incident Response, Threat Detection, Alert Triage, Digital Forensics \
+**Security Tools:** Wazuh (SIEM), Suricata (NIDS), Velociraptor (EDR), Wireshark, Nmap, pfSense, VyOS, VMware, Nutanix \
+**Network & Access Security:** Network Security, Firewall Configuration, Access Control, VLANs, DHCP/DNS \
+**Systems:** Linux, Windows Server, Active Directory \
+**Frameworks & Standards:**  MITRE ATT&CK, NIST, ISO 27001. Familiarity with NCA ECC, SDAIA PDPL
 
 ## 🎓 Education
 **Purdue University** — B.S. Cybersecurity, Minor in Digital Forensics
