@@ -1,7 +1,7 @@
 # Hi, I'm Yousif 👋
 
 Cybersecurity graduate From Purdue University with a minor in Digital Forensics.
-Currently developing my skills across different areas of cybersecurity, with a particular interest in Digital Forensics and Cybersecurity GRC.
+Currently developing my skills across different areas of cybersecurity, with a particular interest in Digital Forensics and Incident Response.
 
 🔎 Currently looking for: SOC Analyst / Security Analyst / Network Security roles
 📫 Reach me: yousifalqunfuzi@gmail.com | https://www.linkedin.com/in/yousif-alqunfuzi/
