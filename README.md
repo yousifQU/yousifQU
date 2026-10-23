@@ -16,7 +16,7 @@ Currently developing my skills across different areas of cybersecurity, with a p
 ## 📌 Featured Projects
 | Project | Description | Tools |
 |---|---|---|
-| [Network SIEM Monitoring Lab](https://github.com/yousifQU/siem-ids-network-monitoring-lab) | Built a simulated network, deployed SIEM to detect and alert on attacks | Splunk, pfSense, Snort |
+| [Incident Responce Simulation](https://github.com/yousifQU/Cyber-Incident-Monitoring-Lab/tree/main) | Built a simulated network, deployed SIEM to detect and alert on attacks | Splunk, pfSense, Snort |
 | [IDS/Firewall Configuration Lab](https://github.com/yousifQU/firewall-network-segmentation-lab) | Configured layered firewall + IDS rules, tested against simulated intrusions | Suricata, pfSense |
 | [Digital Forensics Case Study](https://github.com/yousifQU/digital-forensics-disk-analysis) | Disk image analysis and evidence timeline reconstruction | Autopsy, FTK |
 | [Network Engineer Fundementals](https://github.com/yousifQU/network-engineer-fundementals) | Network Engineer Fundementals | Cisco Switches |
