@@ -9,8 +9,8 @@ I'm a cybersecurity graduate (B.S., Purdue University, minor in Digital Forensic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yousif--alqunfuzi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousif-alqunfuzi/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousifalqunfuzi@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/yousifQU/Yousif-Alqunfuzi-Resume/blob/main/Yousif%20M%20ALqunfuzi%20Resume.pdf)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge)
-![ISC2 CC](https://img.shields.io/badge/ISC2-CC-00A3E0?style=for-the-badge)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge)](https://www.credly.com/badges/7aec767b-970b-405b-8a42-3930ed0d78c9/public_url)
+[![ISC2 CC](https://img.shields.io/badge/ISC2-CC-00A3E0?style=for-the-badge)](https://www.credly.com/badges/61e024ed-3e93-43a6-a8c3-f6c396e88c03/public_url)
 
 ## 🏅 Certifications
 | Certification | Date |
